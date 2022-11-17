@@ -4,6 +4,6 @@
 }
 
 .expenses-list__fallback {
-	color: white;
+	color: rgba(255, 255, 255, 0.992);
 	text-align: center;
 }
